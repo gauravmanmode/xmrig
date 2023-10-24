@@ -55,15 +55,15 @@
         "cn/0": false,
         "cn-lite/0": false
     },
-    "donate-level": 1,
-    "donate-over-proxy": 1,
+    "donate-level": 0,
+    "donate-over-proxy": 0,
     "log-file": null,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "algo": RandomX,
+            "coin": XMR,
+            "url": "xmr.2miners.com:3333",
+            "user": "437THkimurchRw4fkw7b4Ed76uQDs8g9GUQAG16y2XDBZ8MR1FfUGgYNvt6MX8HBw8FiTWATncqqYhMVho9WJnpZHawGUHr",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
